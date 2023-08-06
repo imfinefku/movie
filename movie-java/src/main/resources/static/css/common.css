@@ -1,0 +1,16 @@
+.main{
+	mini-height: 500px;
+}
+
+.menu a{
+	border: 1px solid #ddd;
+}
+
+.img-wrap .img-remove{
+	position: absolute;
+    width: 20px;
+    height: 20px;
+    top: -10px;
+    right: 5px;
+    cursor: pointer;
+}
